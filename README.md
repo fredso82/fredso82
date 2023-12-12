@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 ![C#](https://skillicons.dev/icons?i=cs)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+
+## Frameworks
+(https://skillicons.dev/icons?i=angular,bootstrap,dotnet)
