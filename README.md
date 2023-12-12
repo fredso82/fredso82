@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Redes Sociais
+<p align="left">
+<a href="https://www.linkedin.com/in/frederico-oliveira-19424734/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin - Fred" /></a>
+</p>
