@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/frederico-oliveira-19424734/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin - Fred" /></a>
 </p>
+
+## Linguagens
+![C#](https://skillicons.dev/icons?i=cs)
+![vb.net]
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![advpl]
