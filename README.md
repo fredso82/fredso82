@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 ## Linguagens
 ![C#](https://skillicons.dev/icons?i=cs)
-![vb.net]
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![advpl]
