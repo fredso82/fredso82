@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
 ## Frameworks
-![frameworks](https://skillicons.dev/icons?i=angular,bootstrap,dotnet)
+![frameworks](https://skillicons.dev/icons?i=angular,bootstrap,dotnet,jquery)
